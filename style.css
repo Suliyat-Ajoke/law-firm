@@ -1,0 +1,234 @@
+body{
+    background-color: black;
+    color: white;
+}
+.section1{
+    background: #1A2530;
+    padding: 5rem;
+    background-image: linear-gradient(
+        rgba(26, 37, 48, 0.85),
+       rgba(26, 37, 48, 0.85)),
+    url(Rectangle\ 1\ \(3\).png);
+
+}
+.naval{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* width: 1200px; */
+height: 51px;
+top: 24px;
+/* left: 120px;
+gap: 0px; */
+opacity: 0px;
+margin: 10px 20px;
+
+}
+.sam{
+    color: #B89B5E;
+}
+.div2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.nav-item{
+    margin-left: 15px;
+}
+.home{
+    color: #B89B5E;
+}
+
+.button{
+  background-color: #B89B5E;
+  font-family: Nunito Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 19.1px;
+text-align: center;
+color:  #FFFFFF;
+Width: 149px;
+Height: 51px;
+}
+.text{
+    text-align: center;}
+    .tex{
+        font-family: Lora;
+font-size: 50px;
+font-weight: 400;
+line-height: 64px;
+text-align: center;
+}
+.div3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+.data{
+    text-align: center;
+    border: 2px solid #B89B5E;
+    padding: 50px;
+    Width:150px;
+    Height:150px;
+
+}
+.section2{
+    background-color: #293138;
+    padding: 5rem;
+    ;
+}
+.number{
+    font-family: Lora;
+font-size: 35px;
+font-weight: 400;
+line-height: 44.8px;
+text-align: center;
+
+}
+.letter{
+    font-family: Nunito Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+
+}
+h1{
+    font-family: Lora;
+font-size: 35px;
+font-weight: 400;
+line-height: 44.8px;
+text-align: center;
+
+}
+.latin{
+    text-align: center;
+    font-family: Nunito Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+
+}
+.section3{
+    background: #1A2530;
+
+    padding: 5rem;
+
+}
+.section4{
+    background: #293138;
+    padding: 5rem;
+
+
+}
+.s-text{
+    font-family: Lora;
+font-size: 35px;
+font-weight: 400;
+line-height: 44.8px;
+text-align: center;
+
+
+}
+.s-latin{
+    font-family: Nunito Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 21.82px;
+text-align: center;
+
+
+}
+.div4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+.block{
+    font-family: Nunito Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 21.82px;
+text-align: center;
+}
+
+.section5{
+    padding: 5rem;
+    background: #1A2530;
+    text-align: center;
+}
+.s5-text{
+    font-family: Lora;
+font-size: 40px;
+font-weight: 400;
+line-height: 51.2px;
+text-align: center;
+
+}
+.section6{
+    background: #293138;
+    padding: 5rem;
+    text-align: center;
+}
+.s6-text{
+    font-family: Lora;
+font-size: 40px;
+font-weight: 400;
+line-height: 51.2px;
+text-align: center;
+
+}
+.div6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+.block1{
+    font-family: Nunito Sans;
+font-size: 14px;
+font-weight: 700;
+line-height: 19.1px;
+text-align: center;
+
+}
+.section7{
+    padding: 5rem;
+    background: #1A2530;
+    text-align: center;
+}
+.div7{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;  
+}
+.div7-1{
+    border: 2px solid #B89B5E;
+
+}
+.section8{
+    background: #293138;
+    padding: 5rem;
+    text-align: center;
+    background-image: linear-gradient(
+        rgba(26, 37, 48, 0.85),
+       rgba(26, 37, 48, 0.85)),
+  url(Rectangle\ 4.png);
+}
+.sam-2{
+    color: #B89B5E;
+    font-family: Lora;
+font-size: 24px;
+font-weight: 700;
+line-height: 30.72px;
+text-align: center;
+}
+.section9{
+    padding: 5rem;
+    background: #1A2530;
+    text-align: center;
+}
+
